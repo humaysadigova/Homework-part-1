@@ -133,3 +133,27 @@ footer {
     border: 0;
     font-size: 18px;
 }
+.card {
+    width: 270px;
+    float: left;
+    overflow: auto;
+    margin: 20px 12px 25px;
+    position: relative;
+}
+.card img {
+    width: 100%;
+    opacity: 0.8;
+}
+.card h3 {
+    width: 100%;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 0;
+    position: absolute;
+    font-weight: 300;
+    line-height: 30px;
+    bottom: 12px;
+}
